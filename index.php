@@ -27,7 +27,7 @@
 
 
 
-<!-- Odd and Even checker start -->
+<!-- timetable checker -->
 
 <form action="./sayed_hw6.php" method="POST" class="col-4 mx-auto mt-4">
 
